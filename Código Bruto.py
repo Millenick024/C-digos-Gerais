@@ -15,4 +15,3 @@ print(f'Com velocidade média de {velocidade:.0f} km/h, o tempo estimado é de {
 print(f'{tempo_horas:.2f} horas ({tempo_dias:.2f} dias).')
 print('Boa sorte na missão!')
 
-#teste
