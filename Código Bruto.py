@@ -14,3 +14,5 @@ print(f'A viagem terá uma distância de {distancia:.0f} km.')
 print(f'Com velocidade média de {velocidade:.0f} km/h, o tempo estimado é de {tempo_dias:.0f} dias.')
 print(f'{tempo_horas:.2f} horas ({tempo_dias:.2f} dias).')
 print('Boa sorte na missão!')
+
+#teste
