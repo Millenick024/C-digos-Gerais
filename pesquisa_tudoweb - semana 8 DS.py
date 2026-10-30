@@ -32,5 +32,5 @@ def realizar_pesquisa(quantidade):
 
 
 if __name__ == "__main__":
-    # testando com 10 entrevistados.
+    # testando com 50 entrevistados.
     realizar_pesquisa(50)
